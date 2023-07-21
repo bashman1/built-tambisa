@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "./static/js/main.13f59b33.js",
+    "static/media/good-times2.jpg": "./static/media/good-times2.4ea1be179615d4b3ab59.jpg",
+    "static/media/goodtimes-small.png": "./static/media/goodtimes-small.94ab060d85c99adbb13f.png",
+    "static/media/the-racer2.jpg": "./static/media/the-racer2.580f15cd29971622e0d1.jpg",
+    "static/media/athlete-small.png": "./static/media/athlete-small.9c7a85d428db170f0302.png",
+    "static/media/theracer-small.png": "./static/media/theracer-small.51874213d9ada354f58f.png",
+    "static/media/athlete2.png": "./static/media/athlete2.b216a5ad61641fa48f20.png",
+    "static/media/bg_1.jpg": "./static/media/bg_1.4a7cf9a9a3ec82458368.jpg",
+    "static/media/ginger_600x.webp": "./static/media/ginger_600x.ecd2b9496b31161edc80.webp",
+    "index.html": "./index.html",
+    "main.13f59b33.js.map": "./static/js/main.13f59b33.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.13f59b33.js"
+  ]
+}
