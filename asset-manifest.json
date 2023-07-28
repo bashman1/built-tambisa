@@ -1,19 +1,17 @@
 {
   "files": {
-    "main.js": "./static/js/main.b7ed91c4.js",
+    "main.js": "./static/js/main.4fa0c503.js",
     "static/media/good-times2.jpg": "./static/media/good-times2.4ea1be179615d4b3ab59.jpg",
     "static/media/goodtimes-small.png": "./static/media/goodtimes-small.94ab060d85c99adbb13f.png",
     "static/media/the-racer2.jpg": "./static/media/the-racer2.580f15cd29971622e0d1.jpg",
     "static/media/athlete-small.png": "./static/media/athlete-small.9c7a85d428db170f0302.png",
     "static/media/theracer-small.png": "./static/media/theracer-small.51874213d9ada354f58f.png",
     "static/media/athlete2.png": "./static/media/athlete2.b216a5ad61641fa48f20.png",
-    "static/media/bg_1.jpg": "./static/media/bg_1.4a7cf9a9a3ec82458368.jpg",
-    "static/media/ginger_600x.webp": "./static/media/ginger_600x.ecd2b9496b31161edc80.webp",
     "static/media/neverLetMeDown.webp": "./static/media/neverLetMeDown.8e47ef7229d87a5fe4c9.webp",
     "index.html": "./index.html",
-    "main.b7ed91c4.js.map": "./static/js/main.b7ed91c4.js.map"
+    "main.4fa0c503.js.map": "./static/js/main.4fa0c503.js.map"
   },
   "entrypoints": [
-    "static/js/main.b7ed91c4.js"
+    "static/js/main.4fa0c503.js"
   ]
 }
