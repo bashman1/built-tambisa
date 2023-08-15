@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "./static/js/main.8ed26b4c.js",
+    "main.js": "./static/js/main.44f8103a.js",
     "static/media/neverLetMeDown.webp": "./static/media/neverLetMeDown.8e47ef7229d87a5fe4c9.webp",
     "index.html": "./index.html",
-    "main.8ed26b4c.js.map": "./static/js/main.8ed26b4c.js.map"
+    "main.44f8103a.js.map": "./static/js/main.44f8103a.js.map"
   },
   "entrypoints": [
-    "static/js/main.8ed26b4c.js"
+    "static/js/main.44f8103a.js"
   ]
 }
