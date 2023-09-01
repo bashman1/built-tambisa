@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "./static/js/main.c95021c4.js",
+    "static/media/messenger.png": "./static/media/messenger.634357c2a5ad1a7674d3.png",
+    "static/media/neverLetMeDown.webp": "./static/media/neverLetMeDown.8e47ef7229d87a5fe4c9.webp",
+    "index.html": "./index.html",
+    "main.c95021c4.js.map": "./static/js/main.c95021c4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c95021c4.js"
+  ]
+}
